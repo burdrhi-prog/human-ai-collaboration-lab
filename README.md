@@ -43,6 +43,9 @@ Check whether correction persists
 
 **Memory should help AI know where to look—not pretend it already knows the answer.**
 
+## Practical collaboration case study
+[From GitHub terminology barriers to three structured repositories](docs/real-world-workflow-case-study.md) documents the actual workflow outcome without claiming controlled AI performance improvements.
+
 ## Explore the project
 - [Human–AI Correction Loop](docs/correction-loop.md) — principles, flow, and boundaries.
 - [Evaluation plan](docs/evaluation-plan.md) — comparison conditions and scoring rubric.
